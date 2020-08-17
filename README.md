@@ -88,7 +88,7 @@ git push origin feature
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: 2020 - LabeFood
+Copyright :copyright: 2020 - Planner
 
 <br>
 
