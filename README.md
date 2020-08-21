@@ -1,7 +1,3 @@
-# Labenu | Full-Stack Web Development Bootcamp
-Apredizado de frontend, backend e soft skills
-
-
 # Frontend - Projeto Planner
 
 :dash: [Deploy da aplicação](http://misty-bucket.surge.sh/)
@@ -100,3 +96,5 @@ Copyright :copyright: 2020 - Planner
 - [Email](anna.cbf@hotmail.com)
 
 <br>
+
+Desenvolvido para Labenu | [Full-Stack Web Development Bootcamp](https://www.labenu.com.br/)
