@@ -97,4 +97,4 @@ Copyright :copyright: 2020 - Planner
 
 <br>
 
-Desenvolvido para Labenu | [Full-Stack Web Development Bootcamp](https://www.labenu.com.br/)
+Desenvolvido para [Labenu | Full-Stack Web Development Bootcamp](https://www.labenu.com.br/)
